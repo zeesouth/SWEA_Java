@@ -2,6 +2,15 @@
 <a href="https://swexpertacademy.com/main/code/problem/problemList.do">삼성 SW Expert Academy Code Problem Solving</a>
 
 <details>
+<summary>SW Test 샘플문제</summary>
+<div markdown="1">       
+<pre>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf">1767. 프로세서 연결하기</a>
+</pre>
+</div>
+</details>
+
+<details>
 <summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=4&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1"> D4</a></summary>
 <div markdown="1">       
 <pre>
