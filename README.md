@@ -18,3 +18,13 @@
 </pre>
 </div>
 </details>
+
+<details>
+<summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=6&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1"> D6</a></summary>
+<div markdown="1">       
+<pre>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LnipaDvwDFAXc">1855. 영준이의 진짜 BFS</a>
+</pre>
+</div>
+</details>
+
