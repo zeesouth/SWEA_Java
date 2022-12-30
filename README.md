@@ -30,6 +30,15 @@
 </details>
 
 <details>
+<summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=5&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1"> D5</a></summary>
+<div markdown="1">       
+<pre>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW5jNL968dwDFATQ">8935. 스팟마트</a>
+</pre>
+</div>
+</details>
+
+<details>
 <summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=6&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1"> D6</a></summary>
 <div markdown="1">       
 <pre>
