@@ -11,6 +11,15 @@
 </details>
 
 <details>
+<summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=3&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1"> D3</a></summary>
+<div markdown="1">       
+<pre>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOHEx66kIDFAWr">3304. 최장 공통 부분 수열</a>
+</pre>
+</div>
+</details>
+
+<details>
 <summary><a href="https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=4&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1"> D4</a></summary>
 <div markdown="1">       
 <pre>
