@@ -15,6 +15,7 @@
 <div markdown="1">       
 <pre>
 - <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOHEx66kIDFAWr">3304. 최장 공통 부분 수열</a>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJAVpqrzQDFAWr">3282. 0/1 Knapsack</a>
 </pre>
 </div>
 </details>
