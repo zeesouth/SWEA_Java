@@ -1,5 +1,5 @@
 # SWEA_Java
-<a href="https://swexpertacademy.com/main/code/problem/problemList.do">삼성 SW Expert Academy Code Problem Solving</a>
+<a href="https://swexpertacademy.com/main/code/problem/problemList.do">삼성 SW Expert Academy Code Problem Solving 📝</a>
 
 <details>
 <summary>SW Test 샘플문제</summary>
