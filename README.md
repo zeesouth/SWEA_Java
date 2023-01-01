@@ -26,6 +26,7 @@
 <pre>
 - <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE&problemTitle=%ED%8C%8C%ED%95%91%ED%8C%8C%ED%95%91&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">1868. 파핑파핑 지뢰찾기</a>
 - <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2Jo6bqABMDFATy">8676. 동현이와 한결이는 아이돌</a>
+- <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXpz5_AavskDFATi">12222. 문자열 나누기</a>
 </pre>
 </div>
 </details>
